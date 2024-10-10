@@ -1,7 +1,7 @@
 
 # Rohith Reddy K
 
-### Technical Skills\
+### Technical Skills \
 ---
 
 **Languages:**: Javascript, C, C++
