@@ -14,7 +14,6 @@
 
 ### Education
 ---
-
 Ms is CS  | UC Riverside, USA  _DEC 2024_  
 Btech in CS | VNRVJIET, India, _Jul 2021_  
 
@@ -23,8 +22,7 @@ Btech in CS | VNRVJIET, India, _Jul 2021_
 ---
 **Jp Morgan & Chase**    (_Aug 2021 - Aug 2023_)   
 **Software Engineer**  
-- Led migration of Legacy Notary Tracker to AWS, transitioning to a function based React architecture, enhancing scalability and state management with Microservices and Redux, cutting infrastructure costs by 40%.
-  - IM A DEVELOPER  
+- Led migration of Legacy Notary Tracker to AWS, transitioning to a function based React architecture, enhancing scalability and state management with Microservices and Redux, cutting infrastructure costs by 40%. 
 - Architected 9 critical reports, transitioning from manual Swagger APIs to a microservice architecture using Java 17 and Spring Boot. and integrated a distributed email system, reducing ad hoc requests by 75%.
 - Engineered an Angular analytics module for the Banker Dashboard, aggregating metadata from over 100K+ weekly banker interactions to provide real-time insights into user trends and interactions.
 - Designed the KYC module and onboarded 3k+ users to the new KYC articles and links dashboard, enhancing user experience concurrently directed the critical upgrade of NodeJS from v12 to v18, improving system robustness.
@@ -47,6 +45,13 @@ Btech in CS | VNRVJIET, India, _Jul 2021_
 
 
 ## Projects
+
+[Advance Softwarre testing: Test Coverage & Fault Tolerance](https://github.com/Rohith12111/cs206-project-testers)
+-Devised a Python-based fault analysis system using gcov, achieving deeper insights into code behavior and improving vulnerability identification.  
+-Utilized the gcov library for comprehensive code coverage analysis, refining test case prioritization and exposing 21 of 23 fault versions, resulting in enhanced test coverage and a significantly more efficient fault detection process.  
+
+
+
 
 
 
