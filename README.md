@@ -46,7 +46,7 @@ Btech in CS | VNRVJIET, India, _Jul 2021_
 
 ## Projects
 
-[Advance Softwarre testing: Test Coverage & Fault Tolerance](https://github.com/Rohith12111/cs206-project-testers)
+[Advance Softwarre testing: Test Coverage & Fault Tolerance](https://github.com/Rohith12111/cs206-project-testers)  
 -Devised a Python-based fault analysis system using gcov, achieving deeper insights into code behavior and improving vulnerability identification.  
 -Utilized the gcov library for comprehensive code coverage analysis, refining test case prioritization and exposing 21 of 23 fault versions, resulting in enhanced test coverage and a significantly more efficient fault detection process.  
 
